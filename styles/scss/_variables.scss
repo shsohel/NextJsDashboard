@@ -2,8 +2,13 @@
 //
 // Variables should follow the `$component-state-property-size` formula for
 // consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
+// Custom.scss
+// Option A: Include all of Bootstrap
 
-// Color system
+// Include any default variable overrides here (though functions won't be available)
+
+
+// Then add additional custom code here// Color system
 
 // scss-docs-start gray-color-variables
 $white:    #fff !default;
